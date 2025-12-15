@@ -1,0 +1,326 @@
+#e1(26Oct2025:10:15:27): source ./xcelium.d/env.d/env.history.26Oct2025_10_15_27
+s1(26Oct2025:10:15:27):  xrun -64 -uvm -f run.f +UVM_TESTNAME=base_test 
+#e2(26Oct2025:10:21:11): source ./xcelium.d/env.d/env.history.26Oct2025_10_21_11
+s2(26Oct2025:10:21:11):  xrun -64 -uvm -f run.f +UVM_TESTNAME=base_test 
+#e3(26Oct2025:10:30:45): source ./xcelium.d/env.d/env.history.26Oct2025_10_30_45
+s3(26Oct2025:10:30:45):  xrun -64 -uvm -f run.f +UVM_TESTNAME=base_test 
+#e4(26Oct2025:10:33:37): source ./xcelium.d/env.d/env.history.26Oct2025_10_33_37
+s4(26Oct2025:10:33:37):  xrun -64 -uvm -f run.f +UVM_TESTNAME=base_test 
+#e5(26Oct2025:10:56:13): source ./xcelium.d/env.d/env.history.26Oct2025_10_56_13
+s5(26Oct2025:10:56:13):  xrun -64 -uvm -f run.f +UVM_TESTNAME=base_test 
+#e6(26Oct2025:10:59:37): source ./xcelium.d/env.d/env.history.26Oct2025_10_59_37
+s6(26Oct2025:10:59:37):  xrun -f run.f +UVM_TESTNAME=simple_test 
+#e7(26Oct2025:11:14:50): source ./xcelium.d/env.d/env.history.26Oct2025_11_14_50
+s7(26Oct2025:11:14:50):  xrun -f run.f +UVM_TESTNAME=simple_test -gui 
+#e8(26Oct2025:17:07:23): source ./xcelium.d/env.d/env.history.26Oct2025_17_07_23
+s8(26Oct2025:17:07:23):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e9(26Oct2025:17:12:46): source ./xcelium.d/env.d/env.history.26Oct2025_17_12_46
+s9(26Oct2025:17:12:46):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e10(27Oct2025:08:02:03): source ./xcelium.d/env.d/env.history.27Oct2025_08_02_03
+s10(27Oct2025:08:02:03):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e11(27Oct2025:08:09:22): source ./xcelium.d/env.d/env.history.27Oct2025_08_09_22
+s11(27Oct2025:08:09:22):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e12(27Oct2025:08:14:17): source ./xcelium.d/env.d/env.history.27Oct2025_08_14_17
+s12(27Oct2025:08:14:17):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e13(27Oct2025:08:19:50): source ./xcelium.d/env.d/env.history.27Oct2025_08_19_50
+s13(27Oct2025:08:19:50):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e14(27Oct2025:08:28:26): source ./xcelium.d/env.d/env.history.27Oct2025_08_28_26
+s14(27Oct2025:08:28:26):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e15(27Oct2025:08:41:19): source ./xcelium.d/env.d/env.history.27Oct2025_08_41_19
+s15(27Oct2025:08:41:19):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e16(27Oct2025:09:10:45): source ./xcelium.d/env.d/env.history.27Oct2025_09_10_45
+s16(27Oct2025:09:10:45):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e17(27Oct2025:09:14:39): source ./xcelium.d/env.d/env.history.27Oct2025_09_14_39
+s17(27Oct2025:09:14:39):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM -gui 
+#e18(27Oct2025:09:48:57): source ./xcelium.d/env.d/env.history.27Oct2025_09_48_57
+s18(27Oct2025:09:48:57):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM -gui 
+#e19(27Oct2025:09:51:39): source ./xcelium.d/env.d/env.history.27Oct2025_09_51_39
+s19(27Oct2025:09:51:39):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e20(27Oct2025:10:01:11): source ./xcelium.d/env.d/env.history.27Oct2025_10_01_11
+s20(27Oct2025:10:01:11):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e21(27Oct2025:10:08:12): source ./xcelium.d/env.d/env.history.27Oct2025_10_08_12
+s21(27Oct2025:10:08:12):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e22(27Oct2025:10:09:42): source ./xcelium.d/env.d/env.history.27Oct2025_10_09_42
+s22(27Oct2025:10:09:42):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e23(27Oct2025:10:11:25): source ./xcelium.d/env.d/env.history.27Oct2025_10_11_25
+s23(27Oct2025:10:11:25):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM -gui 
+#e24(27Oct2025:10:19:44): source ./xcelium.d/env.d/env.history.27Oct2025_10_19_44
+s24(27Oct2025:10:19:44):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM +UVM_RECORDING_DETAIL=UVM_FULL +UVM_TR_RECORD 
+#e25(27Oct2025:10:20:03): source ./xcelium.d/env.d/env.history.27Oct2025_10_20_03
+s25(27Oct2025:10:20:03):  xrun -f run.f +UVM_RECORDING_DETAIL=UVM_FULL +UVM_TR_RECORD 
+#e26(27Oct2025:10:20:25): source ./xcelium.d/env.d/env.history.27Oct2025_10_20_25
+s26(27Oct2025:10:20:25):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM +UVM_RECORDING_DETAIL=UVM_FULL +UVM_TR_RECORD 
+#e27(27Oct2025:10:34:26): source ./xcelium.d/env.d/env.history.27Oct2025_10_34_26
+s27(27Oct2025:10:34:26):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e28(27Oct2025:10:41:56): source ./xcelium.d/env.d/env.history.27Oct2025_10_41_56
+s28(27Oct2025:10:41:56):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e29(29Oct2025:10:17:56): source ./xcelium.d/env.d/env.history.29Oct2025_10_17_56
+s29(29Oct2025:10:17:56):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e30(29Oct2025:10:19:51): source ./xcelium.d/env.d/env.history.29Oct2025_10_19_51
+s30(29Oct2025:10:19:51):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e31(29Oct2025:10:22:52): source ./xcelium.d/env.d/env.history.29Oct2025_10_22_52
+s31(29Oct2025:10:22:52):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e32(29Oct2025:10:25:50): source ./xcelium.d/env.d/env.history.29Oct2025_10_25_50
+s32(29Oct2025:10:25:50):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e33(29Oct2025:10:27:26): source ./xcelium.d/env.d/env.history.29Oct2025_10_27_26
+s33(29Oct2025:10:27:26):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e34(29Oct2025:10:28:39): source ./xcelium.d/env.d/env.history.29Oct2025_10_28_39
+s34(29Oct2025:10:28:39):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e35(29Oct2025:10:29:48): source ./xcelium.d/env.d/env.history.29Oct2025_10_29_48
+s35(29Oct2025:10:29:48):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e36(29Oct2025:10:32:04): source ./xcelium.d/env.d/env.history.29Oct2025_10_32_04
+s36(29Oct2025:10:32:04):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e37(29Oct2025:10:34:22): source ./xcelium.d/env.d/env.history.29Oct2025_10_34_22
+s37(29Oct2025:10:34:22):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e38(29Oct2025:10:35:28): source ./xcelium.d/env.d/env.history.29Oct2025_10_35_28
+s38(29Oct2025:10:35:28):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e39(29Oct2025:10:36:14): source ./xcelium.d/env.d/env.history.29Oct2025_10_36_14
+s39(29Oct2025:10:36:14):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e40(29Oct2025:10:36:41): source ./xcelium.d/env.d/env.history.29Oct2025_10_36_41
+s40(29Oct2025:10:36:41):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e41(29Oct2025:14:25:50): source ./xcelium.d/env.d/env.history.29Oct2025_14_25_50
+s41(29Oct2025:14:25:50):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e42(29Oct2025:14:32:32): source ./xcelium.d/env.d/env.history.29Oct2025_14_32_32
+s42(29Oct2025:14:32:32):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e43(29Oct2025:14:52:46): source ./xcelium.d/env.d/env.history.29Oct2025_14_52_46
+s43(29Oct2025:14:52:46):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e44(29Oct2025:14:56:04): source ./xcelium.d/env.d/env.history.29Oct2025_14_56_04
+s44(29Oct2025:14:56:04):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e45(30Oct2025:07:57:00): source ./xcelium.d/env.d/env.history.30Oct2025_07_57_00
+s45(30Oct2025:07:57:00):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e46(30Oct2025:08:34:21): source ./xcelium.d/env.d/env.history.30Oct2025_08_34_21
+s46(30Oct2025:08:34:21):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e47(30Oct2025:08:35:38): source ./xcelium.d/env.d/env.history.30Oct2025_08_35_38
+s47(30Oct2025:08:35:38):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e48(30Oct2025:08:43:20): source ./xcelium.d/env.d/env.history.30Oct2025_08_43_20
+s48(30Oct2025:08:43:20):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e49(30Oct2025:08:45:15): source ./xcelium.d/env.d/env.history.30Oct2025_08_45_15
+s49(30Oct2025:08:45:15):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e50(30Oct2025:08:53:09): source ./xcelium.d/env.d/env.history.30Oct2025_08_53_09
+s50(30Oct2025:08:53:09):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e51(30Oct2025:08:55:22): source ./xcelium.d/env.d/env.history.30Oct2025_08_55_22
+s51(30Oct2025:08:55:22):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e52(30Oct2025:08:56:06): source ./xcelium.d/env.d/env.history.30Oct2025_08_56_06
+s52(30Oct2025:08:56:06):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e53(30Oct2025:08:57:31): source ./xcelium.d/env.d/env.history.30Oct2025_08_57_31
+s53(30Oct2025:08:57:31):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e54(30Oct2025:09:02:48): source ./xcelium.d/env.d/env.history.30Oct2025_09_02_48
+s54(30Oct2025:09:02:48):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e55(30Oct2025:09:03:57): source ./xcelium.d/env.d/env.history.30Oct2025_09_03_57
+s55(30Oct2025:09:03:57):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e56(30Oct2025:09:04:21): source ./xcelium.d/env.d/env.history.30Oct2025_09_04_21
+s56(30Oct2025:09:04:21):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e57(30Oct2025:09:05:54): source ./xcelium.d/env.d/env.history.30Oct2025_09_05_54
+s57(30Oct2025:09:05:54):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e58(30Oct2025:09:06:56): source ./xcelium.d/env.d/env.history.30Oct2025_09_06_56
+s58(30Oct2025:09:06:56):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e59(30Oct2025:09:08:53): source ./xcelium.d/env.d/env.history.30Oct2025_09_08_53
+s59(30Oct2025:09:08:53):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e60(30Oct2025:09:25:33): source ./xcelium.d/env.d/env.history.30Oct2025_09_25_33
+s60(30Oct2025:09:25:33):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e61(30Oct2025:09:30:10): source ./xcelium.d/env.d/env.history.30Oct2025_09_30_10
+s61(30Oct2025:09:30:10):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e62(30Oct2025:09:35:13): source ./xcelium.d/env.d/env.history.30Oct2025_09_35_13
+s62(30Oct2025:09:35:13):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e63(30Oct2025:09:39:02): source ./xcelium.d/env.d/env.history.30Oct2025_09_39_02
+s63(30Oct2025:09:39:02):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e64(30Oct2025:09:41:15): source ./xcelium.d/env.d/env.history.30Oct2025_09_41_15
+s64(30Oct2025:09:41:15):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e65(30Oct2025:09:42:21): source ./xcelium.d/env.d/env.history.30Oct2025_09_42_21
+s65(30Oct2025:09:42:21):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e66(30Oct2025:09:43:35): source ./xcelium.d/env.d/env.history.30Oct2025_09_43_35
+s66(30Oct2025:09:43:35):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e67(30Oct2025:12:41:27): source ./xcelium.d/env.d/env.history.30Oct2025_12_41_27
+s67(30Oct2025:12:41:27):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e68(30Oct2025:12:45:03): source ./xcelium.d/env.d/env.history.30Oct2025_12_45_03
+s68(30Oct2025:12:45:03):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e69(30Oct2025:13:11:01): source ./xcelium.d/env.d/env.history.30Oct2025_13_11_01
+s69(30Oct2025:13:11:01):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e70(02Nov2025:14:50:10): source ./xcelium.d/env.d/env.history.02Nov2025_14_50_10
+s70(02Nov2025:14:50:10):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e71(02Nov2025:14:50:55): source ./xcelium.d/env.d/env.history.02Nov2025_14_50_55
+s71(02Nov2025:14:50:55):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e72(02Nov2025:14:51:40): source ./xcelium.d/env.d/env.history.02Nov2025_14_51_40
+s72(02Nov2025:14:51:40):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e73(02Nov2025:14:51:55): source ./xcelium.d/env.d/env.history.02Nov2025_14_51_55
+s73(02Nov2025:14:51:55):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e74(02Nov2025:15:18:37): source ./xcelium.d/env.d/env.history.02Nov2025_15_18_37
+s74(02Nov2025:15:18:37):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=base_test 
+#e75(02Nov2025:15:19:13): source ./xcelium.d/env.d/env.history.02Nov2025_15_19_13
+s75(02Nov2025:15:19:13):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=base_test 
+#e76(02Nov2025:15:20:18): source ./xcelium.d/env.d/env.history.02Nov2025_15_20_18
+s76(02Nov2025:15:20:18):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=base_test 
+#e77(02Nov2025:15:22:54): source ./xcelium.d/env.d/env.history.02Nov2025_15_22_54
+s77(02Nov2025:15:22:54):  xrun -f run.f +UVM_TESTNAME=base_test 
+#e78(02Nov2025:15:23:51): source ./xcelium.d/env.d/env.history.02Nov2025_15_23_51
+s78(02Nov2025:15:23:51):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e79(02Nov2025:15:24:19): source ./xcelium.d/env.d/env.history.02Nov2025_15_24_19
+s79(02Nov2025:15:24:19):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e80(02Nov2025:15:25:29): source ./xcelium.d/env.d/env.history.02Nov2025_15_25_29
+s80(02Nov2025:15:25:29):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e81(02Nov2025:15:28:16): source ./xcelium.d/env.d/env.history.02Nov2025_15_28_16
+s81(02Nov2025:15:28:16):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e82(02Nov2025:15:28:49): source ./xcelium.d/env.d/env.history.02Nov2025_15_28_49
+s82(02Nov2025:15:28:49):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e83(02Nov2025:15:29:35): source ./xcelium.d/env.d/env.history.02Nov2025_15_29_35
+s83(02Nov2025:15:29:35):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e84(02Nov2025:15:29:50): source ./xcelium.d/env.d/env.history.02Nov2025_15_29_50
+s84(02Nov2025:15:29:50):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e85(02Nov2025:15:30:39): source ./xcelium.d/env.d/env.history.02Nov2025_15_30_39
+s85(02Nov2025:15:30:39):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e86(02Nov2025:15:34:04): source ./xcelium.d/env.d/env.history.02Nov2025_15_34_04
+s86(02Nov2025:15:34:04):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e87(02Nov2025:15:34:40): source ./xcelium.d/env.d/env.history.02Nov2025_15_34_40
+s87(02Nov2025:15:34:40):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e88(02Nov2025:15:36:10): source ./xcelium.d/env.d/env.history.02Nov2025_15_36_10
+s88(02Nov2025:15:36:10):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e89(02Nov2025:15:37:39): source ./xcelium.d/env.d/env.history.02Nov2025_15_37_39
+s89(02Nov2025:15:37:39):  xrun -f run.f +UVM_TESTNAME=base_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e90(02Nov2025:15:40:10): source ./xcelium.d/env.d/env.history.02Nov2025_15_40_10
+s90(02Nov2025:15:40:10):  xrun -f run.f +UVM_TESTNAME=simple_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e91(02Nov2025:15:40:56): source ./xcelium.d/env.d/env.history.02Nov2025_15_40_56
+s91(02Nov2025:15:40:56):  xrun -f run.f -coverage U -covoverwrite +svseed=random +UVM_TESTNAME=simple_test 
+#e92(02Nov2025:16:08:25): source ./xcelium.d/env.d/env.history.02Nov2025_16_08_25
+s92(02Nov2025:16:08:25):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e93(03Nov2025:07:29:23): source ./xcelium.d/env.d/env.history.03Nov2025_07_29_23
+s93(03Nov2025:07:29:23):  xrun -f run.f +UVM_TESTNAME=mcseq_test +UVM_VERBOSITY=UVM_MEDIUM 
+#e94(03Nov2025:07:40:26): source ./xcelium.d/env.d/env.history.03Nov2025_07_40_26
+s94(03Nov2025:07:40:26):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e95(03Nov2025:07:48:47): source ./xcelium.d/env.d/env.history.03Nov2025_07_48_47
+s95(03Nov2025:07:48:47):  xrun -f run.f +UVM_TESTNAME=simple_test 
+#e96(03Nov2025:07:49:11): source ./xcelium.d/env.d/env.history.03Nov2025_07_49_11
+s96(03Nov2025:07:49:11):  xrun -f run.f -coverage U +UVM_TESTNAME=simple_test 
+#e97(03Nov2025:07:49:45): source ./xcelium.d/env.d/env.history.03Nov2025_07_49_45
+s97(03Nov2025:07:49:45):  xrun -f run.f +UVM_TESTNAME=simple_test 
+#e98(03Nov2025:07:50:09): source ./xcelium.d/env.d/env.history.03Nov2025_07_50_09
+s98(03Nov2025:07:50:09):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e99(03Nov2025:07:52:26): source ./xcelium.d/env.d/env.history.03Nov2025_07_52_26
+s99(03Nov2025:07:52:26):  xrun -f run.f +UVM_TESTNAME=simple_test 
+#e100(03Nov2025:07:52:58): source ./xcelium.d/env.d/env.history.03Nov2025_07_52_58
+s100(03Nov2025:07:52:58):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e101(03Nov2025:08:08:07): source ./xcelium.d/env.d/env.history.03Nov2025_08_08_07
+s101(03Nov2025:08:08:07):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e102(03Nov2025:08:15:55): source ./xcelium.d/env.d/env.history.03Nov2025_08_15_55
+s102(03Nov2025:08:15:55):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e103(03Nov2025:09:13:45): source ./xcelium.d/env.d/env.history.03Nov2025_09_13_45
+s103(03Nov2025:09:13:45):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e104(03Nov2025:09:20:54): source ./xcelium.d/env.d/env.history.03Nov2025_09_20_54
+s104(03Nov2025:09:20:54):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e105(03Nov2025:09:26:06): source ./xcelium.d/env.d/env.history.03Nov2025_09_26_06
+s105(03Nov2025:09:26:06):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=simple_test 
+#e106(03Nov2025:09:30:20): source ./xcelium.d/env.d/env.history.03Nov2025_09_30_20
+s106(03Nov2025:09:30:20):  xrun -f run.f +UVM_TESTNAME=mcseq_test 
+#e107(03Nov2025:09:30:49): source ./xcelium.d/env.d/env.history.03Nov2025_09_30_49
+s107(03Nov2025:09:30:49):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e108(03Nov2025:09:36:41): source ./xcelium.d/env.d/env.history.03Nov2025_09_36_41
+s108(03Nov2025:09:36:41):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e109(03Nov2025:09:36:59): source ./xcelium.d/env.d/env.history.03Nov2025_09_36_59
+s109(03Nov2025:09:36:59):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e110(03Nov2025:09:38:13): source ./xcelium.d/env.d/env.history.03Nov2025_09_38_13
+s110(03Nov2025:09:38:13):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e111(03Nov2025:09:49:42): source ./xcelium.d/env.d/env.history.03Nov2025_09_49_42
+s111(03Nov2025:09:49:42):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e112(03Nov2025:09:52:02): source ./xcelium.d/env.d/env.history.03Nov2025_09_52_02
+s112(03Nov2025:09:52:02):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e113(03Nov2025:09:55:13): source ./xcelium.d/env.d/env.history.03Nov2025_09_55_13
+s113(03Nov2025:09:55:13):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e114(03Nov2025:10:11:13): source ./xcelium.d/env.d/env.history.03Nov2025_10_11_13
+s114(03Nov2025:10:11:13):  xrun -f run.f +UVM_TESTNAME=mcseq_test 
+#e115(03Nov2025:10:11:55): source ./xcelium.d/env.d/env.history.03Nov2025_10_11_55
+s115(03Nov2025:10:11:55):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e116(03Nov2025:10:16:33): source ./xcelium.d/env.d/env.history.03Nov2025_10_16_33
+s116(03Nov2025:10:16:33):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e117(03Nov2025:10:19:17): source ./xcelium.d/env.d/env.history.03Nov2025_10_19_17
+s117(03Nov2025:10:19:17):  xrun -f run.f -gui -coverage U +UVM_TESTNAME=mcseq_test 
+#e118(03Nov2025:10:23:28): source ./xcelium.d/env.d/env.history.03Nov2025_10_23_28
+s118(03Nov2025:10:23:28):  xrun -f run.f -coverage U -covoverwrite +svseed=random +UVM_TESTNAME=mcseq_test 
+#e119(03Nov2025:10:34:59): source ./xcelium.d/env.d/env.history.03Nov2025_10_34_59
+s119(03Nov2025:10:34:59):  xrun -f run.f -coverage U -covoverwrite +svseed=random +UVM_TESTNAME=base_test 
+#e120(03Nov2025:10:35:04): source ./xcelium.d/env.d/env.history.03Nov2025_10_35_04
+s120(03Nov2025:10:35:04):  xrun -f run.f -coverage U -covappend +svseed=12345 +UVM_TESTNAME=base_test 
+#e121(03Nov2025:10:35:04): source ./xcelium.d/env.d/env.history.03Nov2025_10_35_04
+s121(03Nov2025:10:35:04):  xrun -f run.f -coverage U -covappend +svseed=67890 +UVM_TESTNAME=base_test 
+#e122(03Nov2025:10:39:42): source ./xcelium.d/env.d/env.history.03Nov2025_10_39_42
+s122(03Nov2025:10:39:42):  xrun -f run.f -coverage U -covoverwrite +svseed=random +UVM_TESTNAME=mcseq_test 
+#e123(03Nov2025:10:39:44): source ./xcelium.d/env.d/env.history.03Nov2025_10_39_44
+s123(03Nov2025:10:39:44):  xrun -f run.f -coverage U -covappend +svseed=12345 +UVM_TESTNAME=mcseq_test 
+#e124(03Nov2025:10:39:44): source ./xcelium.d/env.d/env.history.03Nov2025_10_39_44
+s124(03Nov2025:10:39:44):  xrun -f run.f -coverage U -covappend +svseed=67890 +UVM_TESTNAME=mcseq_test 
+#e125(03Nov2025:10:42:33): source ./xcelium.d/env.d/env.history.03Nov2025_10_42_33
+s125(03Nov2025:10:42:33):  xrun -f run.f -coverage U -covoverwrite -covworkdir ./cov_work +UVM_TESTNAME=mcseq_test +svseed=1111 
+#e126(03Nov2025:10:43:12): source ./xcelium.d/env.d/env.history.03Nov2025_10_43_12
+s126(03Nov2025:10:43:12):  xrun -f run.f -coverage U -covworkdir ./cov_work -covtest mcseq_seed12345 +UVM_TESTNAME=mcseq_test +svseed=12345 
+#e127(03Nov2025:10:43:14): source ./xcelium.d/env.d/env.history.03Nov2025_10_43_14
+s127(03Nov2025:10:43:14):  xrun -f run.f -coverage U -covworkdir ./cov_work -covtest mcseq_seed67890 +UVM_TESTNAME=mcseq_test +svseed=67890 
+#e128(04Nov2025:09:13:32): source ./xcelium.d/env.d/env.history.04Nov2025_09_13_32
+s128(04Nov2025:09:13:32):  xrun -f run.f -coverage U -covoverwrite +svseed=random +UVM_TESTNAME=mcseq_test -gui 
+#e129(04Nov2025:09:20:45): source ./xcelium.d/env.d/env.history.04Nov2025_09_20_45
+s129(04Nov2025:09:20:45):  xrun -f run.f +UVM_TESTNAME=mcseq_test -gui 
+#e130(04Nov2025:09:21:40): source ./xcelium.d/env.d/env.history.04Nov2025_09_21_40
+s130(04Nov2025:09:21:40):  xrun -f run.f -coverage U +UVM_TESTNAME=mcseq_test -gui 
+#e131(06Nov2025:08:55:38): source ./xcelium.d/env.d/env.history.06Nov2025_08_55_38
+s131(06Nov2025:08:55:38):  xrun -f run.f 
+#e132(06Nov2025:08:56:19): source ./xcelium.d/env.d/env.history.06Nov2025_08_56_19
+s132(06Nov2025:08:56:19):  xrun -f run.f 
+#e133(06Nov2025:10:25:28): source ./xcelium.d/env.d/env.history.06Nov2025_10_25_28
+s133(06Nov2025:10:25:28):  xrun -f run.f 
+#e134(06Nov2025:10:31:27): source ./xcelium.d/env.d/env.history.06Nov2025_10_31_27
+s134(06Nov2025:10:31:27):  xrun -f run.f 
+#e135(06Nov2025:10:37:48): source ./xcelium.d/env.d/env.history.06Nov2025_10_37_48
+s135(06Nov2025:10:37:48):  xrun -f run.f 
+#e136(06Nov2025:10:38:53): source ./xcelium.d/env.d/env.history.06Nov2025_10_38_53
+s136(06Nov2025:10:38:53):  xrun -f run.f 
+#e137(06Nov2025:10:41:58): source ./xcelium.d/env.d/env.history.06Nov2025_10_41_58
+s137(06Nov2025:10:41:58):  xrun -f run.f 
+#e138(06Nov2025:10:42:47): source ./xcelium.d/env.d/env.history.06Nov2025_10_42_47
+s138(06Nov2025:10:42:47):  xrun -f run.f 
+#e139(06Nov2025:10:57:20): source ./xcelium.d/env.d/env.history.06Nov2025_10_57_20
+s139(06Nov2025:10:57:20):  xrun -f run.f 
+#e140(09Nov2025:09:39:12): source ./xcelium.d/env.d/env.history.09Nov2025_09_39_12
+s140(09Nov2025:09:39:12):  xrun -f run.f 
+#e141(09Nov2025:15:41:36): source ./xcelium.d/env.d/env.history.09Nov2025_15_41_36
+s141(09Nov2025:15:41:36):  xrun -f run.f -access rwc 
+#e142(09Nov2025:15:46:37): source ./xcelium.d/env.d/env.history.09Nov2025_15_46_37
+s142(09Nov2025:15:46:37):  xrun -f run.f -access rwc 
+#e143(09Nov2025:15:50:55): source ./xcelium.d/env.d/env.history.09Nov2025_15_50_55
+s143(09Nov2025:15:50:55):  xrun -f run.f -access rwc 
+#e144(09Nov2025:15:52:41): source ./xcelium.d/env.d/env.history.09Nov2025_15_52_41
+s144(09Nov2025:15:52:41):  xrun -f run.f -access rwc 
+#e145(09Nov2025:16:02:40): source ./xcelium.d/env.d/env.history.09Nov2025_16_02_40
+s145(09Nov2025:16:02:40):  xrun -f run.f -access rwc 
+#e146(09Nov2025:16:05:15): source ./xcelium.d/env.d/env.history.09Nov2025_16_05_15
+s146(09Nov2025:16:05:15):  xrun -f run.f -access rwc 
+#e147(09Nov2025:16:06:57): source ./xcelium.d/env.d/env.history.09Nov2025_16_06_57
+s147(09Nov2025:16:06:57):  xrun -f run.f -access rwc 
+#e148(09Nov2025:16:11:00): source ./xcelium.d/env.d/env.history.09Nov2025_16_11_00
+s148(09Nov2025:16:11:00):  xrun -f run.f -access rwc 
+#e149(09Nov2025:16:12:54): source ./xcelium.d/env.d/env.history.09Nov2025_16_12_54
+s149(09Nov2025:16:12:54):  xrun -f run.f -access rwc 
+#e150(09Nov2025:16:20:37): source ./xcelium.d/env.d/env.history.09Nov2025_16_20_37
+s150(09Nov2025:16:20:37):  xrun -f run.f -access rwc 
+#e151(09Nov2025:16:22:40): source ./xcelium.d/env.d/env.history.09Nov2025_16_22_40
+s151(09Nov2025:16:22:40):  xrun -f run.f -access rwc 
+#e152(09Nov2025:16:26:06): source ./xcelium.d/env.d/env.history.09Nov2025_16_26_06
+s152(09Nov2025:16:26:06):  xrun -f run.f -access rwc 
+#e153(09Nov2025:16:29:14): source ./xcelium.d/env.d/env.history.09Nov2025_16_29_14
+s153(09Nov2025:16:29:14):  xrun -f run.f -access rwc 
+#e154(09Nov2025:16:36:57): source ./xcelium.d/env.d/env.history.09Nov2025_16_36_57
+s154(09Nov2025:16:36:57):  xrun -f run.f -access rwc 
+#e155(09Nov2025:18:09:37): source ./xcelium.d/env.d/env.history.09Nov2025_18_09_37
+s155(09Nov2025:18:09:37):  xrun -f run.f -access rwc 
+#e156(09Nov2025:18:17:24): source ./xcelium.d/env.d/env.history.09Nov2025_18_17_24
+s156(09Nov2025:18:17:24):  xrun -f run.f -access rwc 
+#e157(09Nov2025:18:18:54): source ./xcelium.d/env.d/env.history.09Nov2025_18_18_54
+s157(09Nov2025:18:18:54):  xrun -f run.f -access rwc 
+#e158(09Nov2025:18:21:03): source ./xcelium.d/env.d/env.history.09Nov2025_18_21_03
+s158(09Nov2025:18:21:03):  xrun -f run.f -access rwc 
+#e159(20Nov2025:14:22:58): source ./xcelium.d/env.d/env.history.20Nov2025_14_22_58
+s159(20Nov2025:14:22:58):  xrun -f run.f -access rwc 
+#e160(20Nov2025:15:04:53): source ./xcelium.d/env.d/env.history.20Nov2025_15_04_53
+s160(20Nov2025:15:04:53):  xrun -f run.f -access rwc 
+#e161(20Nov2025:15:07:43): source ./xcelium.d/env.d/env.history.20Nov2025_15_07_43
+s161(20Nov2025:15:07:43):  xrun -f run.f -coverage U +UVM_TESTNAME=mcseq_test -gui 
+#e162(20Nov2025:15:42:35): source ./xcelium.d/env.d/env.history.20Nov2025_15_42_35
+s162(20Nov2025:15:42:35):  xrun -f run.f -coverage U +UVM_TESTNAME=mcseq_test -gui 
+#e163(20Nov2025:15:45:36): source ./xcelium.d/env.d/env.history.20Nov2025_15_45_36
+s163(20Nov2025:15:45:36):  xrun -f run.f -coverage U +UVM_TESTNAME=mcseq_test -gui 
