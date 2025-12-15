@@ -26,13 +26,21 @@ The verification environment includes:
 ## Repository Structure
 
 Yapp_Router_Verification_Env/
+
 ├── yapp/ # YAPP UVC (driver, monitor, sequencer, sequences)
+
 ├── hbus/ # HBUS UVC
+
 ├── channel/ # Channel UVCs
+
 ├── clock_and_reset/ # Clock & Reset agent
+
 ├── router_rtl/ # DUT RTL
+
 ├── reg_verifier_dir/ # Register model files
+
 ├── test_install/ # Test setup and run files
+
 ├── README.md
 
 > Note: Simulator-generated directories (e.g. `xcelium.d`) and temporary files are intentionally excluded.
