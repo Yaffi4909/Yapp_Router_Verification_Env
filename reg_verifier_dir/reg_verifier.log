@@ -1,0 +1,10 @@
+Activation command: reg_verifier -domain uvmreg -top yapp_router_regs.xml -dut_name yapp_router_regs -out_file yapp_router_regs -cov -quicktest -pkg yapp_router_reg_pkg
+------------------
+Running Glue Version: glue64.nightlys released (KG) build-tag: jenkins-KrazyGlue-315 build-revision: 0a0490dd4f81 tip Runtime: 11.0.10+9 build-host: vlsj-vipsia-fusion system-arch: amd64
+
+Command Line Arguments:
+	--quirks
+	--jar /tools/cadence/XCELIUM/24.09.011/tools.lnx86/sia/lib/image/rdve.jar
+	--logfile ./reg_verifier_dir/reg_verifier
+	--execute /tmp/reg_verifier_40370.js
+
