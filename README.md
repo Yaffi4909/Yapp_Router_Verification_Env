@@ -23,6 +23,13 @@ The verification environment includes:
 
 ---
 
+## Architecture Diagram
+![YAPP Router Verification Architecture](images/img_yapp_router.png)
+
+---
+
+
+
 ## Repository Structure
 
 Yapp_Router_Verification_Env/
