@@ -5,7 +5,7 @@ This repository contains a complete **UVM-based verification environment** for t
 
 The environment verifies correct packet routing, register behavior, and multi-channel functionality using industry-standard **SystemVerilog UVM methodology**.
 
-The repository reflects the **final integrated stage (Lab 11B)**, including full environment integration with the **UVM Register Model (RAL)**.
+The repository reflects the **final integrated stage**, including full environment integration with the **UVM Register Model (RAL)**.
 
 ---
 
@@ -47,7 +47,7 @@ Yapp_Router_Verification_Env/
 
 ---
 
-## Register Model (Lab 11A + 11B)
+## Register Model
 The environment integrates a **UVM Register Abstraction Layer (RAL)**:
 
 - Auto-generated register model
