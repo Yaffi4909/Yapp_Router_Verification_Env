@@ -24,7 +24,7 @@ The verification environment includes:
 ---
 
 ## Architecture Diagram
-![YAPP Router Verification Architecture](images/img_yapp_router.png)
+![YAPP Router Verification Architecture](images/img_yapp_router.jpg)
 
 ---
 
